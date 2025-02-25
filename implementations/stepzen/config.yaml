@@ -4,4 +4,4 @@ access:
     - type: Query
       rules:
         - condition: true
-          fields: [product, _service, _entities, __schema, __type, __typename]
+          fields: [product, deprecatedProduct, _service, _entities, __schema, __type, __typename]
